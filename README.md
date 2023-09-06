@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio López</h1>
 <h3 align="center">A passionate data scientist from Madrid</h3>
 
-- 🔭 I’m currently working on **education**
+- 🔭 I’m currently working on **Education**
 
 - 🌱 I’m currently learning **Machine Learning**
 
